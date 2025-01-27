@@ -1,0 +1,17 @@
+# macOS system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Temporary files
+/tmp/*
+*.tmp
+
+# Backup files
+*~
+*.bak
+
+# Local test files
+test/*
