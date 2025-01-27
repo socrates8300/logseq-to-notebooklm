@@ -126,11 +126,11 @@ Feel free to submit issues and enhancement requests!
 
 ## License
 
-[Your chosen license]
+MIT License
 
 ## Author
 
-[Your name/contact information]
+github.com.1zwqt@passmail.net
 
 ## Version History
 
